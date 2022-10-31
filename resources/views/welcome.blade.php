@@ -1,0 +1,1 @@
+<center><h1> HELLO LARAVEL</h1></center>
